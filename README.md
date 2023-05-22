@@ -14,7 +14,7 @@
 ### **Mål**
 - Formålet med opgaven er at demonstrere: 
   At du kan arbejde med at implementerer de koncepter vi arbejde med i my-movie-appen i en ny ligende opgave.
-  
+   
 ### **Ekstraopgaver hvis du er hurtigt færdig**
 - Se om du kan finde en løsning til favoritter. (like kæledyr)
 
